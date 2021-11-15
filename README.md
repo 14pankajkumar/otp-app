@@ -4,4 +4,4 @@ npm install
 
 ## Vist site
 
- https://https://otp-app.vercel.app/
+https://otp-app.vercel.app/
